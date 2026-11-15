@@ -1,4 +1,4 @@
-# OpenAesthetic
+# OpenAesthetic v1.1
 
 **OpenAesthetic** is an unofficial source recovery and research project focused on **Aesthetic Client v1.1** for **Minecraft 26.2 Fabric**.
 
